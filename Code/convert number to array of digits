@@ -1,0 +1,3 @@
+def converter(n):
+    arr = [int(x) for x in str(n)]
+    return arr
